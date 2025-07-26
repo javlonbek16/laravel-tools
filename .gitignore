@@ -1,0 +1,50 @@
+# Composer dependencies
+/vendor/
+composer.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Laravel specific (agar test loyiha bo'lsa)
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Build files
+/build/
+/dist/
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
