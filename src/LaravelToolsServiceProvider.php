@@ -7,7 +7,7 @@ use Src\Commands\MakeStructureCommand;
 use Src\Commands\SyncControllerToRouteCommand;
 use Src\Commands\SyncInterfaceToRepositoryCommand;
 
-class LaravelToolServiceProvider extends ServiceProvider
+class LaravelToolsServiceProvider extends ServiceProvider
 {
     public function boot()
     {
