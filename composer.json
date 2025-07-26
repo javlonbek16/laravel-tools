@@ -1,7 +1,7 @@
 {
     "name": "nematov/laravel-tools",
     "description": "Laravel package for generating and syncing repositories, controllers, interfaces and routes with customizable paths",
-    "keywords": ["laravel", "package", "repository", "controller", "interface", "generator"],
+    "keywords": ["laravel", "package", "repository", "controller", "interface", "generator" ],
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/javlonbek16/laravel-tools",
