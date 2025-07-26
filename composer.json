@@ -1,7 +1,21 @@
 {
     "name": "nematov/laravel-tools",
-    "description": "Laravel package for generating and syncing repositories, controllers, interfaces and routes",
+    "description": "Laravel package for generating and syncing repositories, controllers, interfaces and routes with customizable paths",
+    "keywords": ["laravel", "package", "repository", "controller", "interface", "generator"],
     "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/javlonbek16/laravel-tools",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com",
+            "homepage": "https://github.com/javlonbek16"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/javlonbek16/laravel-tools/issues",
+        "source": "https://github.com/javlonbek16/laravel-tools"
+    },
     "require": {
         "php": "^8.0",
         "illuminate/support": "^9.0|^10.0|^11.0",
@@ -22,5 +36,7 @@
                 "Src\\LaravelToolsServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }

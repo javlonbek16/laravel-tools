@@ -1,0 +1,8 @@
+# Laravel Tools Package
+
+Laravel package for generating and syncing repositories, controllers, interfaces and routes with customizable paths.
+
+## Installation
+
+bash
+composer require nematov/laravel-tools
